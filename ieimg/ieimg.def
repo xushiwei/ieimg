@@ -1,0 +1,8 @@
+EXPORTS
+	ieimg_init
+	ieimg_term
+	ieimg_new
+	ieimg_delete
+	ieimg_resize
+	ieimg_render
+	ieimg_save
